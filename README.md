@@ -2,6 +2,8 @@
 
 Este proyecto consiste en una aplicación de escritorio desarrollada en **Python**, usando **Tkinter** como interfaz gráfica y **MySQL** como base de datos. Permite registrar nombres de usuarios en una tabla llamada `usuarios` y almacenarlos de forma segura utilizando variables de entorno.
 
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/9fba9701-74b2-4a58-9078-4f99ae6c623d" />
+
 ---
 
 ## 🎓 Materia
