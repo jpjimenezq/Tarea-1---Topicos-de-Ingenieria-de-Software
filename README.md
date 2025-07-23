@@ -1,4 +1,4 @@
-# 🖥️ Proyecto: Registro de Usuarios - Tkinter + MySQL
+# 🖥️ Tarea: Registro de Usuarios - Tkinter + MySQL
 
 Este proyecto consiste en una aplicación de escritorio desarrollada en **Python**, usando **Tkinter** como interfaz gráfica y **MySQL** como base de datos. Permite registrar nombres de usuarios en una tabla llamada `usuarios` y almacenarlos de forma segura utilizando variables de entorno.
 
